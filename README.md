@@ -3,7 +3,7 @@ emoji：https://emoji.muan.co/
 icon: https://simpleicons.org/
 -->
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=LuciNyan&theme=summer">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Mnting&theme=journey>
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Mnting&theme=journey&screen_effect=true">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Mnting&theme=journey">
 </picture>
