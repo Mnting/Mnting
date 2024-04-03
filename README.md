@@ -3,6 +3,8 @@ emoji：https://emoji.muan.co/
 icon: https://simpleicons.org/
 -->
 
+https://pixel-profile.vercel.app/api/github-stats?username=Mnting&theme=journey
+
 <img src="./github-metrics.svg" alt="Metrics" width="100%">
 
 ---
